@@ -15,8 +15,3 @@ This repository contains reviewed business systems analysis and project document
 ## Non-Functional Requirements
 
 `Non-Functional Requirements Checklist/NFR Checklist- Supplementary Specification Guide.xlsx` lists non-functional requirement markers and definitions, including availability, auditability, authentication, compatibility, data integrity, performance, privacy, reliability, security, and usability. Use it as a prompt when eliciting and documenting quality attributes and operational constraints.
-
-
-## Adapt templates to your project
-
-Templates are starting points, not finished project documents. Adapt each one to the project's scope, stakeholders, organization, applicable standards, and governance requirements; replace example material and review privacy, security, accessibility, and licensing considerations before sharing completed documents.
